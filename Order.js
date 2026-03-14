@@ -12,7 +12,7 @@ function welcoming() {
   let aReturn = [];
   currentState = reserving;
   aReturn.push("Welcome to Rich's Acton Rapid Test.");
-  aReturn.push("Would you like to reserve a rapid test kit?");
+  aReturn.push("What would you like to order?");
   return aReturn;
 }
 
